@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Chris's Blog"
+theme = "cactus-plus"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "your_google_analytics_code"
+hasCJKLanguage = true
+
+[params]
+	name = "Chris Bobbe"
+	description = "A blog birthed at the Recurse Center"
+	bio = "My biography here?"
+	# Enter optionally your twitter account
+	twitter = "ChrisBobbe"
+
+	enableRSS = false
+	enableDisqus = false
+	enableDuoshuo = false
+	enableGithubIssuesTips = false
+	enableGoogleAnalytics = false
+	enableBaiduAnalytics = false
+
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
+
+	# Navigation links
+	home = ""
+	about = ""
+  categories = ""
+  tags = ""
+	archive = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I am so interesting."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = "404 error :("
+	subtitle404 = "I'm sorry, this page hasn't been created yet!"
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+
+[social]
+	facebook-square = "https://www.facebook.com/chris.bobbe"
+  twitter-square = "https://twitter.com/ChrisBobbe"
+  github-square = "https://github.com/chrisbobbe"
+  linkedin-square = "https://www.linkedin.com/in/chrisbobbe1995/"
