@@ -1,5 +1,4 @@
-+++
-baseURL = "https://chrisbobbe.github.io/hugo-blog"
+baseURL = "https://chrisbobbe.github.io/hugo-blog/"
 languageCode = "en-us"
 title = "Chris's Blog"
 theme = "cactus-plus"
@@ -53,4 +52,3 @@ hasCJKLanguage = true
   twitter-square = "https://twitter.com/ChrisBobbe"
   github-square = "https://github.com/chrisbobbe"
   linkedin-square = "https://www.linkedin.com/in/chrisbobbe1995/"
-+++
